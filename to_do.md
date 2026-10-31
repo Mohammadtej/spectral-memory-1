@@ -1,0 +1,10 @@
+- UI/UX & Skeuomorphic PolishDraggable Rotary Bakelite Tuning Knob:
+Replace or supplement the linear slider with a circular rotary dial. Users can drag their mouse or finger in a radial arc to tune. Use the Web Vibration API (navigator.vibrate([15])) on mobile devices to emit tactile micro-clicks every time the dial passes a year tick.Interactive Phosphor Oscilloscope (Canvas):
+Add a vintage cathode-ray green/amber vector oscilloscope visualizer next to the CRT readout. When speech or static plays, pipe the AudioContext through an AnalyserNode to draw an authentic, jittery Lissajous wave pattern that reacts to every syllable Gemma speaks.Glowing Vacuum Tube Filaments:
+Add a graphical array of 2 to 3 vintage vacuum tubes at the top of the chassis. When the user hits "Tune", have the filaments slowly brighten from dull red to warm orange, accompanied by a subtle 60Hz power transformer hum, simulating old electronics warming up before audio begins.Keyboard Deck Navigation:
+Support full keyboard mastery for an authentic amateur radio feel:← / → arrow keys: Fine-tune frequency by 1 year.1 through 6: Jump to category bands.Spacebar: Toggle carrier audio playback / mute.Enter: Retune and intercept.4. Interactive Archive Inspection (In-App CRT View)Instead of sending users away to a standard external browser tab when clicking an article, open an In-App Retro Web Inspector. Render the archived snapshot inside a framed retro monitor styled like Windows 95 or System 7, with original typography, tiled grey bevels, and vintage raster graphics intact, providing a seamless museum-grade experience without breaking immersion.
+
+
+- High-Impact Feature Additions
+The "Cassette Mixtape" Export:
+Allow users to record a 2-minute historical broadcast sequence onto a virtual cassette tape. Combine Gemma's narration, the AM filter, and a background ambient drone into an offline audio buffer (OfflineAudioContext), then export a downloadable .wav or .mp3 accompanied by printable retro cassette sleeve art generated from the headlines.
